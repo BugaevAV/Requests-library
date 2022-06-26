@@ -30,5 +30,5 @@ class YandexDisk:
 
 
 if __name__ == '__main__':
-    ya = YandexDisk(token='AQAAAABTRlo_AADLW2LeYlBvrEeqgvh9nzoWayQ')
+    ya = YandexDisk(token=' ')
     ya.upload_file_to_disk(filename='test.txt')
